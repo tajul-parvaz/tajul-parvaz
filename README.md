@@ -29,8 +29,8 @@
 
 Hello! I'm Md Tajul Islam, a Software Engineer based in the vibrant Berlin Metropolitan Area. I hold a Master's Degree in Web Engineering from Technische Universität Chemnitz. My focus is on crafting elegant and efficient solutions to real-world problems.
 
-*   💻 Currently, I'm a Software Engineer at **be4energy**, where I specialize in web frontend development on embedded Linux devices. I enjoy the challenges of creating user-friendly interfaces within resource-constrained environments.
-*   ✍️ I'm passionate about sharing knowledge and love writing technical blogs on topics such as web development best practices, data management strategies, and software engineering principles.
+*   💻 Currently, I'm a Software Engineer at **be4energy**, where I specialize in web **frontend development** on embedded Linux devices. I enjoy the challenges of creating user-friendly interfaces within resource-constrained environments.
+*   ✍️ I'm passionate about sharing knowledge and love writing technical blogs on topics such as **web development** best practices, **data management** strategies, and software engineering principles.
 *   :bulb: In my spare time, I'm always exploring new technologies, experimenting with innovative ideas, and contributing to open-source projects. I believe in continuous learning and giving back to the community.
 
 Feel free to connect with me: [LinkedIn](https://www.linkedin.com/in/islam-mdtajul/) | [Xing](https://www.xing.com/profile/MdTajul_Islam4) | islammdtajulparvaz@gmail.com
