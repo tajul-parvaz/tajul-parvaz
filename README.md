@@ -109,6 +109,6 @@ technical discussion, or the right role.
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/islam-mdtajul/)**  ·  **[Xing](https://www.xing.com/profile/MdTajul_Islam4)**  ·  **[islammdtajulparvaz@gmail.com](mailto:islammdtajulparvaz@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/tajul-parvaz/)**  ·  **[Xing](https://www.xing.com/profile/MdTajul_Islam4)**  ·  **[islammdtajulparvaz@gmail.com](mailto:islammdtajulparvaz@gmail.com)**
 
 </div>
